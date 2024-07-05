@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\SWT\\DateTimeCheker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A53911-643C-4A2F-AACF-ED22D42CE900}|DataTime.Tests\\DataTime.Tests.csproj|d:\\documents\\swt\\datetimecheker\\datatime.tests\\checkdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A53911-643C-4A2F-AACF-ED22D42CE900}|DataTime.Tests\\DataTime.Tests.csproj|solutionrelative:datatime.tests\\checkdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A53911-643C-4A2F-AACF-ED22D42CE900}|DataTime.Tests\\DataTime.Tests.csproj|d:\\documents\\swt\\datetimecheker\\datatime.tests\\datetimecheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A53911-643C-4A2F-AACF-ED22D42CE900}|DataTime.Tests\\DataTime.Tests.csproj|solutionrelative:datatime.tests\\datetimecheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC55D61-F56C-4D3B-AA5C-128E329B349E}|DateTimeCheker\\DateTimeCheker.csproj|d:\\documents\\swt\\datetimecheker\\datetimecheker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC55D61-F56C-4D3B-AA5C-128E329B349E}|DateTimeCheker\\DateTimeCheker.csproj|solutionrelative:datetimecheker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC55D61-F56C-4D3B-AA5C-128E329B349E}|DateTimeCheker\\DateTimeCheker.csproj|d:\\documents\\swt\\datetimecheker\\datetimecheker\\datetimecheker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAC55D61-F56C-4D3B-AA5C-128E329B349E}|DateTimeCheker\\DateTimeCheker.csproj|solutionrelative:datetimecheker\\datetimecheker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC55D61-F56C-4D3B-AA5C-128E329B349E}|DateTimeCheker\\DateTimeCheker.csproj|d:\\documents\\swt\\datetimecheker\\datetimecheker\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC55D61-F56C-4D3B-AA5C-128E329B349E}|DateTimeCheker\\DateTimeCheker.csproj|solutionrelative:datetimecheker\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC55D61-F56C-4D3B-AA5C-128E329B349E}|DateTimeCheker\\DateTimeCheker.csproj|D:\\Documents\\SWT\\DateTimeCheker\\datetimecheker\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{AAC55D61-F56C-4D3B-AA5C-128E329B349E}|DateTimeCheker\\DateTimeCheker.csproj|solutionrelative:datetimecheker\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateTimeCheckerTests.cs",
+              "DocumentMoniker": "D:\\Documents\\SWT\\DateTimeCheker\\DataTime.Tests\\DateTimeCheckerTests.cs",
+              "RelativeDocumentMoniker": "DataTime.Tests\\DateTimeCheckerTests.cs",
+              "ToolTip": "D:\\Documents\\SWT\\DateTimeCheker\\DataTime.Tests\\DateTimeCheckerTests.cs",
+              "RelativeToolTip": "DataTime.Tests\\DateTimeCheckerTests.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:18:57.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckDate.cs",
+              "DocumentMoniker": "D:\\Documents\\SWT\\DateTimeCheker\\DataTime.Tests\\CheckDate.cs",
+              "RelativeDocumentMoniker": "DataTime.Tests\\CheckDate.cs",
+              "ToolTip": "D:\\Documents\\SWT\\DateTimeCheker\\DataTime.Tests\\CheckDate.cs",
+              "RelativeToolTip": "DataTime.Tests\\CheckDate.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA3wDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:18:53.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Documents\\SWT\\DateTimeCheker\\DateTimeCheker\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DateTimeCheker\\Form1.Designer.cs",
+              "ToolTip": "D:\\Documents\\SWT\\DateTimeCheker\\DateTimeCheker\\Form1.Designer.cs",
+              "RelativeToolTip": "DateTimeCheker\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:44:38.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DateTimeCheker.csproj",
+              "DocumentMoniker": "D:\\Documents\\SWT\\DateTimeCheker\\DateTimeCheker\\DateTimeCheker.csproj",
+              "RelativeDocumentMoniker": "DateTimeCheker\\DateTimeCheker.csproj",
+              "ToolTip": "D:\\Documents\\SWT\\DateTimeCheker\\DateTimeCheker\\DateTimeCheker.csproj",
+              "RelativeToolTip": "DateTimeCheker\\DateTimeCheker.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T13:41:46.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\SWT\\DateTimeCheker\\DateTimeCheker\\Program.cs",
+              "RelativeDocumentMoniker": "DateTimeCheker\\Program.cs",
+              "ToolTip": "D:\\Documents\\SWT\\DateTimeCheker\\DateTimeCheker\\Program.cs",
+              "RelativeToolTip": "DateTimeCheker\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:38:05.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\Documents\\SWT\\DateTimeCheker\\DateTimeCheker\\Form1.resx",
+              "RelativeDocumentMoniker": "DateTimeCheker\\Form1.resx",
+              "ToolTip": "D:\\Documents\\SWT\\DateTimeCheker\\DateTimeCheker\\Form1.resx",
+              "RelativeToolTip": "DateTimeCheker\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-12T13:44:39.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\Documents\SWT\DateTimeCheker\DateTimeCheker\obj\Debug\net8.0-windows\DateTimeCheker.csproj.AssemblyReference.cache
+D:\Documents\SWT\DateTimeCheker\DateTimeCheker\obj\Debug\net8.0-windows\DateTimeChecker.Form1.resources
+D:\Documents\SWT\DateTimeCheker\DateTimeCheker\obj\Debug\net8.0-windows\DateTimeCheker.csproj.GenerateResource.cache
+D:\Documents\SWT\DateTimeCheker\DateTimeCheker\obj\Debug\net8.0-windows\DateTimeCheker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\SWT\DateTimeCheker\DateTimeCheker\obj\Debug\net8.0-windows\DateTimeCheker.AssemblyInfoInputs.cache
+D:\Documents\SWT\DateTimeCheker\DateTimeCheker\obj\Debug\net8.0-windows\DateTimeCheker.AssemblyInfo.cs
+D:\Documents\SWT\DateTimeCheker\DateTimeCheker\obj\Debug\net8.0-windows\DateTimeCheker.csproj.CoreCompileInputs.cache
